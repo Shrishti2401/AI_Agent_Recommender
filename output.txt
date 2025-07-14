@@ -1,0 +1,74 @@
+🎬 Welcome to the Animated Movie Recommender!
+✨ This AI assistant will recommend animated gems based on the values you believe in and the emotions you want to feel.
+
+🔍 Step 1: Choose 1–3 **ethical values** that matter to you:
+Examples: kindness, courage, family, friendship, freedom, perseverance,self-acceptance, empathy, resilience, responsibility, justice, loyalty
+
+💬 Enter ethical values (comma-separated): justice,loyalty
+
+🎭 Step 2: What emotional experience are you looking for in a movie?
+Examples: heartwarming, high-energy, dream-driven, bittersweet, pure fun, family bonding, heroic quest
+
+💬 Enter emotional tones (comma-separated): high-energy
+
+🔍 Finding matches based on your values...
+
+😞 No movies found matching your criteria on my dataset but wait, Let's find some alternatives!
+
+🎬 Final Recommendations:
+
+Here’s a high-energy animated movie that beautifully explores the theme of justice, loyalty:
+
+🎯 Popular Picks:
+1. Spider-Man: Into the Spider-Verse (2018)
+   - Studio: Sony Pictures Animation
+   - Language: English
+   - IMDb Rating: 8.4
+   - Duration: 117 min
+   Why It Fits:
+   This movie follows various versions of Spider-Man coming together to fight for justice and protect their worlds, showcasing themes of loyalty and standing up for what's right.
+   You’ll Love It If You Enjoy:
+   - Action-packed superhero movies
+   - Multiverse storytelling
+   - Diverse and unique animation styles
+   Popularity Tag: Highly Popular
+
+2. How to Train Your Dragon (2010)
+   - Studio: DreamWorks Animation
+   - Language: English
+   - IMDb Rating: 8.1
+   - Duration: 98 min
+   Why It Fits:
+   Through the bond between a Viking named Hiccup and his dragon Toothless, this film highlights themes of loyalty, friendship, and the journey towards understanding and justice.
+   You’ll Love It If You Enjoy:
+   - Fantasy adventures
+   - Heartwarming relationships
+   - Epic battles and aerial scenes
+   Popularity Tag: Highly Popular
+
+💎 Hidden Gems:
+1. Ernest & Celestine (2012)
+   - Studio: Les Armateurs
+   - Language: French
+   - IMDb Rating: 7.9
+   - Duration: 80 min
+   Why It Fits:
+   This heartwarming tale follows the unlikely friendship between a bear named Ernest and a mouse named Celestine, as they challenge societal norms and stand by each other through thick and thin, embodying loyalty and standing up for justice.
+   You’ll Love It If You Enjoy:
+   - Charming hand-drawn animation
+   - Unique and touching storytelling
+   - Stories of friendship and overcoming obstacles
+   Popularity Tag: Cult Favorite
+
+2. The Secret of Kells (2009)
+   - Studio: Cartoon Saloon
+   - Language: English
+   - IMDb Rating: 7.7
+   - Duration: 75 min
+   Why It Fits:
+   Set in medieval Ireland, this visually stunning film follows a young boy, Brendan, on a quest to complete the illuminated Book of Kells, showcasing themes of loyalty to his family, community, and preserving their culture against threats.
+   You’ll Love It If You Enjoy:
+   - Beautifully hand-drawn animation
+   - Folklore and mythological elements
+   - Stories of bravery and preservation
+   Popularity Tag: Cult Favorite
